@@ -1,0 +1,8 @@
+[Database]
+driver = "mysql"
+server = "localhost:3310"
+user = "test"
+password = "test"
+database = "gorm_example01"
+charset = "utf8"
+parseTime = "true"
